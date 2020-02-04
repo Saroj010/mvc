@@ -1,0 +1,11 @@
+{
+    "name": "dell/mvc",
+    "type": "Projecct file",
+    "authors": [
+        {
+            "name": "Saroj",
+            "email": "quellerymagar@gmail.com"
+        }
+    ],
+    "require": {}
+}
